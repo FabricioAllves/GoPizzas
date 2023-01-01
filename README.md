@@ -13,7 +13,7 @@
 ## 💻 Projeto
 <!-- OQUE E´? -->
 Aplicativo para uso do garçom, possibilitando o mesmo a fazer pedidos pelo aplicativo e acompanhar em tempo real o status do pedido feito.
-Também conta com o acesso de administrador onde o mesmo tera a possibilidade de atualizar o cardápio dentro do app.
+Também conta com o acesso de administrador onde o mesmo téra a possibilidade de atualizar o cardápio dentro do app.
 
 
 <!-- QUAIS TECNOLOGIA USEI? -->
