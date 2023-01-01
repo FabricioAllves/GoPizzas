@@ -7,7 +7,7 @@
 
 <h1 align="center">Em desenvolvimento 🧑‍💻⚙️</h1>
 
-<img alt="gif-cell" src="https://github.com/FabricioAllves/GoPizzas/blob/main/src/assets/Readme.png">
+<img alt="gif-cell" src="https://github.com/FabricioAllves/GoPizzas/blob/main/src/assets/GoPizzaReadme.png">
 
 
 ## 💻 Projeto
